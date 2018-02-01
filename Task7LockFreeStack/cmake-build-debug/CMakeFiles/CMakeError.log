@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/arsentii/Documents/MyFiles/Projects/C:C++/concurency_practice/Task7LockFreeStack/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fddd3/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_fddd3.dir/build.make CMakeFiles/cmTC_fddd3.dir/build
+CMakeFiles/cmTC_fddd3.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_fddd3/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/arsentii/Documents/MyFiles/Projects/C:C++/concurency_practice/Task7LockFreeStack/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6a545/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_6a545.dir/build.make CMakeFiles/cmTC_6a545.dir/build
+CMakeFiles/cmTC_6a545.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_6a545/fast] Error 2
+
+
+
